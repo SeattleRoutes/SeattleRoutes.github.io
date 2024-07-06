@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://seattleroutes.github.io"
 languageCode = "en-us"
 title = "Seattle Routes"
 theme = "seattle-routes-theme"

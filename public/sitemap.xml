@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/biking/</loc>
+    <loc>https://seattleroutes.github.io/biking/</loc>
     <lastmod>2024-07-06T11:53:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/biking/slu-woodinville/</loc>
+    <loc>https://seattleroutes.github.io/biking/slu-woodinville/</loc>
     <lastmod>2024-07-06T11:53:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/walking/</loc>
+    <loc>https://seattleroutes.github.io/walking/</loc>
     <lastmod>2024-07-05T22:44:17-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/walking/slu-lumen-field/</loc>
+    <loc>https://seattleroutes.github.io/walking/slu-lumen-field/</loc>
     <lastmod>2024-07-05T22:44:17-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/blue/</loc>
+    <loc>https://seattleroutes.github.io/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/green/</loc>
+    <loc>https://seattleroutes.github.io/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/post-3/</loc>
+    <loc>https://seattleroutes.github.io/posts/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/red/</loc>
+    <loc>https://seattleroutes.github.io/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://seattleroutes.github.io/tags/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/post-2/</loc>
+    <loc>https://seattleroutes.github.io/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/post-1/</loc>
+    <loc>https://seattleroutes.github.io/posts/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://seattleroutes.github.io/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://seattleroutes.github.io/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://seattleroutes.github.io/categories/</loc>
   </url>
 </urlset>

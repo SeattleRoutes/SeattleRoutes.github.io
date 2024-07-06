@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🚶 Walking Routes on Seattle Routes</title>
-    <link>http://example.org/walking/</link>
+    <link>https://seattleroutes.github.io/walking/</link>
     <description>Recent content in 🚶 Walking Routes on Seattle Routes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 22:44:17 -0700</lastBuildDate>
-    <atom:link href="http://example.org/walking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seattleroutes.github.io/walking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SLU 🔁 Lumen Field Loop</title>
-      <link>http://example.org/walking/slu-lumen-field/</link>
+      <link>https://seattleroutes.github.io/walking/slu-lumen-field/</link>
       <pubDate>Fri, 05 Jul 2024 22:44:17 -0700</pubDate>
-      <guid>http://example.org/walking/slu-lumen-field/</guid>
+      <guid>https://seattleroutes.github.io/walking/slu-lumen-field/</guid>
       <description>Route Description Starting at South Lake Union, I walked south towards Pike Place Market, enjoying the vibrant atmosphere and scenic views of the waterfront. Passing by the market&amp;rsquo;s bustling stalls and iconic fish-throwing vendors, I continued down to the pier, where the fresh sea breeze and views of Elliott Bay were refreshing.&#xA;From there, I headed towards Lumen Field, taking in the sight of the impressive stadium. After reaching Lumen Field, I turned back and made my way through the heart of downtown Seattle.</description>
     </item>
   </channel>

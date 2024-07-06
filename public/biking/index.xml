@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🚴 Biking Routes on Seattle Routes</title>
-    <link>http://example.org/biking/</link>
+    <link>https://seattleroutes.github.io/biking/</link>
     <description>Recent content in 🚴 Biking Routes on Seattle Routes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jul 2024 11:53:58 -0700</lastBuildDate>
-    <atom:link href="http://example.org/biking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seattleroutes.github.io/biking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SLU 🔁 Woodinville Loop</title>
-      <link>http://example.org/biking/slu-woodinville/</link>
+      <link>https://seattleroutes.github.io/biking/slu-woodinville/</link>
       <pubDate>Sat, 06 Jul 2024 11:53:58 -0700</pubDate>
-      <guid>http://example.org/biking/slu-woodinville/</guid>
+      <guid>https://seattleroutes.github.io/biking/slu-woodinville/</guid>
       <description>Route Description This route&amp;hellip;&#xA;Photos </description>
     </item>
   </channel>

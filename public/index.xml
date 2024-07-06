@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Seattle Routes</title>
-    <link>http://example.org/</link>
+    <link>https://seattleroutes.github.io/</link>
     <description>Recent content in Home on Seattle Routes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seattleroutes.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SLU 🔁 Woodinville Loop</title>
-      <link>http://example.org/biking/slu-woodinville/</link>
+      <link>https://seattleroutes.github.io/biking/slu-woodinville/</link>
       <pubDate>Sat, 06 Jul 2024 11:53:58 -0700</pubDate>
-      <guid>http://example.org/biking/slu-woodinville/</guid>
+      <guid>https://seattleroutes.github.io/biking/slu-woodinville/</guid>
       <description>Route Description This route&amp;hellip;&#xA;Photos </description>
     </item>
     <item>
       <title>SLU 🔁 Lumen Field Loop</title>
-      <link>http://example.org/walking/slu-lumen-field/</link>
+      <link>https://seattleroutes.github.io/walking/slu-lumen-field/</link>
       <pubDate>Fri, 05 Jul 2024 22:44:17 -0700</pubDate>
-      <guid>http://example.org/walking/slu-lumen-field/</guid>
+      <guid>https://seattleroutes.github.io/walking/slu-lumen-field/</guid>
       <description>Route Description Starting at South Lake Union, I walked south towards Pike Place Market, enjoying the vibrant atmosphere and scenic views of the waterfront. Passing by the market&amp;rsquo;s bustling stalls and iconic fish-throwing vendors, I continued down to the pier, where the fresh sea breeze and views of Elliott Bay were refreshing.&#xA;From there, I headed towards Lumen Field, taking in the sight of the impressive stadium. After reaching Lumen Field, I turned back and made my way through the heart of downtown Seattle.</description>
     </item>
     <item>
       <title>Post 3</title>
-      <link>http://example.org/posts/post-3/</link>
+      <link>https://seattleroutes.github.io/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://example.org/posts/post-3/</guid>
+      <guid>https://seattleroutes.github.io/posts/post-3/</guid>
       <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://example.org/posts/post-2/</link>
+      <link>https://seattleroutes.github.io/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://example.org/posts/post-2/</guid>
+      <guid>https://seattleroutes.github.io/posts/post-2/</guid>
       <description>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&#xA;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>http://example.org/posts/post-1/</link>
+      <link>https://seattleroutes.github.io/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://example.org/posts/post-1/</guid>
+      <guid>https://seattleroutes.github.io/posts/post-1/</guid>
       <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&#xA;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea.</description>
     </item>
   </channel>
