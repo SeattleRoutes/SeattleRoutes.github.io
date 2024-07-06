@@ -15,5 +15,5 @@ link: "https://maps.app.goo.gl/cgssCsYCCjdEj3Ts8"
 This route...
 
 ## Photos
-![Photo along the route](/images/photo1.jpg)
+![Photo along the route.](/images/photo1.jpg)
 ![Another photo along the route](/images/photo2.jpg)

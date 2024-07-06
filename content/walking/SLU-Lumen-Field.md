@@ -20,4 +20,4 @@ Finally, I returned to South Lake Union, completing a loop that highlighted Seat
 
 ## Photos
 ![Photo along the route](/images/photo1.jpg)
-![Another photo along the route](/images/photo2.jpg)
+![Another photo along the route.](/images/photo2.jpg)
