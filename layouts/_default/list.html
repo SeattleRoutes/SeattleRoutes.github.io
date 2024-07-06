@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container">
+    <nav class="breadcrumb">
+        <a href="/">Home</a> &gt; <span>{{ .Title }}</span>
+    </nav>
+    <h1>{{ .Title }}</h1>
+    <div class="route-list">
+        {{ range .Pages }}
+            <div class="route-item">
+                <div class="iframe-container">
+                    <iframe src="{{ .Params.iframe }}" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div class="route-info">
+                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                    <p>{{ .Params.location }}</p>
+                    <p class="details">{{ .Params.distance }} · {{ .Params.difficulty }}</p>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

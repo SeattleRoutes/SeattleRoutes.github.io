@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Seattle Routes"
+theme = "seattle-routes-theme"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "walking"
+    name = "Walking Routes"
+    url = "/walking/"
+    weight = 2
+  [[menu.main]]
+    identifier = "biking"
+    name = "Biking Routes"
+    url = "/biking/"
+    weight = 3

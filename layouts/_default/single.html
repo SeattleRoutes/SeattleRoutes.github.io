@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container">
+    <nav class="breadcrumb">
+        <a href="/">Home</a> &gt; 
+        {{ if eq .Section "walking" }}
+            <a href="/walking/">Walking Routes</a>
+        {{ else if eq .Section "biking" }}
+            <a href="/biking/">Biking Routes</a>
+        {{ end }}
+        &gt; <span>{{ .Title }}</span>
+    </nav>
+    <h1>{{ .Title }}</h1>
+    <h3>{{ .Params.distance }} · {{ .Params.difficulty }} · <a href="{{ .Params.link }}" target="_blank">Link to Map</a></h3>
+    <div class="route-content">
+        <iframe src="{{ .Params.iframe }}" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        {{ .Content }}
+    </div>
+</div>
+{{ end }}
