@@ -16,4 +16,4 @@ This route...
 
 ## Photos
 ![Photo along the route.](/images/photo1.jpg)
-![Another photo along the route](/images/photo2.jpg)
+![Another photo along the route.](/images/photo2.jpg)
