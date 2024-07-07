@@ -12,8 +12,14 @@ link: "https://maps.app.goo.gl/cgssCsYCCjdEj3Ts8"
 ---
 
 ## Route Description
-This route...
+Starting from South Lake Union, the 43.7-mile biking route began by heading northeast via the scenic Burke-Gilman Trail. The trail offered a smooth, dedicated path with beautiful views of Lake Union and Lake Washington, making it a favorite for cyclists and joggers alike. I followed the trail all the way up to Woodinville, passing through tranquil neighborhoods and lush, green parks.
+
+In Woodinville, the route transitioned to a more suburban setting, with opportunities to explore local wineries and breweries if desired. After a brief stop, I continued the journey by heading south towards the SR 520 bridge. This part of the ride included a mix of suburban and urban landscapes, with well-maintained bike lanes and occasional hills providing a good workout.
+
+Crossing the SR 520 bridge was a highlight, offering stunning views of Lake Washington and the Seattle skyline in the distance. The dedicated bike path on the bridge ensured a safe and enjoyable crossing. After the bridge, the route took me through the neighborhoods of the Eastside before heading back west towards Seattle.
+
+The final stretch of the route led me through familiar city streets, eventually returning to South Lake Union. This loop offered a diverse experience, showcasing Seattle's natural beauty, suburban charm, and urban vibrancy all in one comprehensive ride.
 
 ## Photos
-![Photo along the route.](/images/photo1.jpg)
-![Another photo along the route.](/images/photo2.jpg)
+![Photo along the route](/images/photo1.jpg)
+![Another photo along the route](/images/photo2.jpg)
