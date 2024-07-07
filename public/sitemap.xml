@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://seattleroutes.github.io/biking/</loc>
+    <lastmod>2024-07-07T00:32:03-07:00</lastmod>
+  </url><url>
+    <loc>https://seattleroutes.github.io/biking/slu-volunteer-park-washington-park-arboretum-loop/</loc>
+    <lastmod>2024-07-07T00:32:03-07:00</lastmod>
+  </url><url>
+    <loc>https://seattleroutes.github.io/biking/lake-union-loop/</loc>
+    <lastmod>2024-07-07T00:30:02-07:00</lastmod>
+  </url><url>
     <loc>https://seattleroutes.github.io/walking/</loc>
-    <lastmod>2024-07-06T19:22:04-07:00</lastmod>
+    <lastmod>2024-07-07T00:24:32-07:00</lastmod>
+  </url><url>
+    <loc>https://seattleroutes.github.io/walking/lake-union-loop/</loc>
+    <lastmod>2024-07-07T00:24:32-07:00</lastmod>
+  </url><url>
+    <loc>https://seattleroutes.github.io/walking/slu-volunteer-park-washington-park-arboretum-loop/</loc>
+    <lastmod>2024-07-07T00:02:15-07:00</lastmod>
   </url><url>
     <loc>https://seattleroutes.github.io/walking/spheres-mohai-spaceneedle/</loc>
     <lastmod>2024-07-06T19:22:04-07:00</lastmod>
-  </url><url>
-    <loc>https://seattleroutes.github.io/biking/</loc>
-    <lastmod>2024-07-06T11:53:58-07:00</lastmod>
   </url><url>
     <loc>https://seattleroutes.github.io/biking/slu-woodinville/</loc>
     <lastmod>2024-07-06T11:53:58-07:00</lastmod>

@@ -12,11 +12,17 @@ link: "https://maps.app.goo.gl/D9L6QKnpEsChRi5N7"
 ---
 
 ## Route Description
-Starting at South Lake Union, I walked south towards Pike Place Market, enjoying the vibrant atmosphere and scenic views of the waterfront. Passing by the market's bustling stalls and iconic fish-throwing vendors, I continued down to the pier, where the fresh sea breeze and views of Elliott Bay were refreshing.
+Starting at South Lake Union, this walking loop offers a comprehensive tour of Seattle's iconic landmarks and vibrant neighborhoods. Begin your journey in SLU, where you can enjoy the lakeside parks and bustling waterfront. Consider grabbing a coffee at one of the many cafes in the area before setting off.
 
-From there, I headed towards Lumen Field, taking in the sight of the impressive stadium. After reaching Lumen Field, I turned back and made my way through the heart of downtown Seattle. The walk through the city center showcased a mix of modern skyscrapers, busy streets, and a variety of shops and restaurants.
+Head south towards Pike Place Market, one of Seattle's most famous attractions. As you make your way, enjoy the lively streets filled with shops and eateries. At Pike Place, explore the diverse stalls offering fresh produce, flowers, and handmade crafts. Don't miss the chance to see the famous fish-throwing vendors and visit the original Starbucks store.
 
-Finally, I returned to South Lake Union, completing a loop that highlighted Seattle's unique blend of natural beauty and urban energy. The route provided a diverse experience, from the serene lakeside and coastal views to the lively market and downtown cityscape.
+Continue your walk down to the pier, where you can take in the salty sea breeze and stunning views of Elliott Bay. The waterfront is lined with attractions, including the Seattle Aquarium and various shops and restaurants. This area is perfect for a relaxing stroll along the water or a scenic break at one of the pierside benches.
+
+From the pier, head towards Lumen Field, home to the Seattle Seahawks and Sounders FC. The stadium stands as a testament to Seattle's passionate sports culture. Even if there isn't a game, the area around the stadium often has events and activities, particularly on game days.
+
+After visiting Lumen Field, turn back and walk through the heart of downtown Seattle. The city's skyscrapers and busy streets offer a vibrant urban experience. You'll pass by a mix of modern buildings, historic landmarks, and an array of shops and restaurants. Consider stopping for a meal or exploring some of the local boutiques.
+
+Finally, make your way back to South Lake Union, completing the loop. This route provides a blend of Seattle's natural beauty, historic markets, coastal charm, and urban energy, making it a perfect way to experience the city's diverse character.
 
 ## Photos
 ![Photo along the route](/images/photo1.jpg)
