@@ -27,5 +27,5 @@ Heading south, cross the University Bridge and follow the shoreline back towards
 Finally, return to MOHAI to complete the loop. This route offers a delightful mix of urban landscapes, parkland, and waterfront scenery, with plenty of opportunities for exploration and relaxation along the way.
 
 ## Photos
-![Photo along the route](/images/photo1.jpg)
-![Another photo along the route](/images/photo2.jpg)
+![Portage Bay view towards UW](/images/SLU-GasWorks-UW/IMG_0881.png)
+![Photo at UW](/images/SLU-GasWorks-UW/IMG_0883.png)

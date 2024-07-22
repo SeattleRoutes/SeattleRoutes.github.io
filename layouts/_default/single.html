@@ -16,7 +16,11 @@
             <iframe src="{{ .Params.iframe }}" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </a>
         {{ .Content }}
+            <!-- Share Button -->
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 <!-- Modal for image gallery -->
@@ -27,4 +31,20 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: '{{ .Title }}',
+            text: '{{ .Title }} - {{ .Params.distance }} · {{ .Params.difficulty }}',
+            url: '{{ .Permalink }}'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 {{ end }}

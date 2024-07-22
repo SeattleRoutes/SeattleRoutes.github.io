@@ -21,7 +21,3 @@ Reaching Woodinville, take the opportunity to explore the local area known for i
 After Woodinville, head south towards the SR 520 bridge. This part of the ride includes a mix of suburban and urban landscapes, with dedicated bike lanes ensuring a safe journey. Crossing the SR 520 bridge is a highlight, offering stunning views of Lake Washington and the Seattle skyline. The dedicated bike path on the bridge makes for a comfortable and enjoyable crossing.
 
 Once over the bridge, continue your ride through the neighborhoods of the Eastside before heading back west towards Seattle. The final stretch takes you through familiar city streets, eventually returning to South Lake Union. This route offers a diverse experience, showcasing Seattle's natural beauty, suburban charm, and urban vibrancy all in one comprehensive ride.
-
-## Photos
-![Photo along the route](/images/photo1.jpg)
-![Another photo along the route](/images/photo2.jpg)

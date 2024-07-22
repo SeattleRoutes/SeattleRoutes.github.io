@@ -43,11 +43,12 @@
 <p>From the pier, head towards Lumen Field, home to the Seattle Seahawks and Sounders FC. The stadium stands as a testament to Seattle&rsquo;s passionate sports culture. Even if there isn&rsquo;t a game, the area around the stadium often has events and activities, particularly on game days.</p>
 <p>After visiting Lumen Field, turn back and walk through the heart of downtown Seattle. The city&rsquo;s skyscrapers and busy streets offer a vibrant urban experience. You&rsquo;ll pass by a mix of modern buildings, historic landmarks, and an array of shops and restaurants. Consider stopping for a meal or exploring some of the local boutiques.</p>
 <p>Finally, make your way back to South Lake Union, completing the loop. This route provides a blend of Seattle&rsquo;s natural beauty, historic markets, coastal charm, and urban energy, making it a perfect way to experience the city&rsquo;s diverse character.</p>
-<h2 id="photos">Photos</h2>
-<p><img src="/images/photo1.jpg" alt="Photo along the route">
-<img src="/images/photo2.jpg" alt="Another photo along the route."></p>
 
+            
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 
@@ -58,6 +59,22 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'SLU 🔁 Lumen Field Loop',
+            text: 'SLU 🔁 Lumen Field Loop - 3.6 mi · 🌱',
+            url: 'https:\/\/seattleroutes.github.io\/walking\/slu-lumen-field\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 
     </main>
     

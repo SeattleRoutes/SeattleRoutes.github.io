@@ -287,3 +287,55 @@ a:hover {
         font-size: 1rem; /* Adjust route info font size */
     }
 }
+
+/* Share Button Styles */
+#share-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #a36608;
+    color: #fffad9;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#share-button:hover {
+    background-color: #a99178;
+}
+
+/* Share Menu Styles */
+#share-menu {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #41466b; /* Medium blue */
+    padding: 20px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+}
+
+#share-menu a {
+    display: inline-block;
+    margin: 10px;
+    color: #fffad9;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#share-menu a img {
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+}
+
+#share-menu-close {
+    display: inline-block;
+    margin: 10px;
+    color: #fffad9;
+    font-size: 16px;
+    cursor: pointer;
+}

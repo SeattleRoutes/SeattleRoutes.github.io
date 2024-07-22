@@ -23,7 +23,3 @@ From the pier, head towards Lumen Field, home to the Seattle Seahawks and Sounde
 After visiting Lumen Field, turn back and walk through the heart of downtown Seattle. The city's skyscrapers and busy streets offer a vibrant urban experience. You'll pass by a mix of modern buildings, historic landmarks, and an array of shops and restaurants. Consider stopping for a meal or exploring some of the local boutiques.
 
 Finally, make your way back to South Lake Union, completing the loop. This route provides a blend of Seattle's natural beauty, historic markets, coastal charm, and urban energy, making it a perfect way to experience the city's diverse character.
-
-## Photos
-![Photo along the route](/images/photo1.jpg)
-![Another photo along the route.](/images/photo2.jpg)

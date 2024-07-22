@@ -43,11 +43,12 @@
 <p>From Volunteer Park, continue south towards the Washington Park Arboretum. As you walk, you&rsquo;ll pass through the charming residential streets of Capitol Hill and Madison Valley. The Arboretum offers a serene escape with its extensive collection of trees, shrubs, and flowers. Wander through the well-maintained trails and enjoy the diverse plant species, including the stunning Azalea Way and the tranquil Japanese Garden (admission required).</p>
 <p>After exploring the Arboretum, head west towards Lake Washington Boulevard and follow the path back towards South Lake Union. This part of the walk takes you through the vibrant neighborhoods of Montlake and Eastlake. Consider stopping at a waterfront cafe along the way to rest and enjoy the view of Lake Union.</p>
 <p>Finally, return to SLU, completing the loop. This route provides a diverse experience, showcasing Seattle&rsquo;s urban charm, historic parks, and lush greenery. It&rsquo;s a perfect way to enjoy the city&rsquo;s natural beauty and vibrant culture in one enjoyable walk.</p>
-<h2 id="photos">Photos</h2>
-<p><img src="/images/photo1.jpg" alt="Photo along the route">
-<img src="/images/photo2.jpg" alt="Another photo along the route"></p>
 
+            
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 
@@ -58,6 +59,22 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'SLU 🔁 Volunteer Park 🔁 Washington Park Arboretum Loop',
+            text: 'SLU 🔁 Volunteer Park 🔁 Washington Park Arboretum Loop - 5.9 mi · 🌿',
+            url: 'https:\/\/seattleroutes.github.io\/walking\/slu-volunteer-park-washington-park-arboretum-loop\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 
     </main>
     

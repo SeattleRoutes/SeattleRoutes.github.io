@@ -45,10 +45,14 @@
 <p>Heading south, cross the University Bridge and follow the shoreline back towards South Lake Union. This part of the walk offers stunning views of houseboats and sailboats on the lake. You might also consider stopping by Portage Bay Cafe for a meal or visiting the Center for Wooden Boats to see classic wooden vessels.</p>
 <p>Finally, return to MOHAI to complete the loop. This route offers a delightful mix of urban landscapes, parkland, and waterfront scenery, with plenty of opportunities for exploration and relaxation along the way.</p>
 <h2 id="photos">Photos</h2>
-<p><img src="/images/photo1.jpg" alt="Photo along the route">
-<img src="/images/photo2.jpg" alt="Another photo along the route"></p>
+<p><img src="/images/SLU-GasWorks-UW/IMG_0881.png" alt="Portage Bay view towards UW">
+<img src="/images/SLU-GasWorks-UW/IMG_0883.png" alt="Photo at UW"></p>
 
+            
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 
@@ -59,6 +63,22 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'Lake Union Loop (Lake Union Park 🔁 Gas Works Park 🔁 UW)',
+            text: 'Lake Union Loop (Lake Union Park 🔁 Gas Works Park 🔁 UW) - 7.5 mi · 🌿',
+            url: 'https:\/\/seattleroutes.github.io\/walking\/lake-union-loop\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 
     </main>
     

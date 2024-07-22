@@ -17,5 +17,6 @@ The SLU 🔁 Log Boom Park Loop begins in the vibrant neighborhood of South Lake
 From the UW, you hop onto the Burke-Gilman Trail, a well-maintained and popular multi-use path. Follow the trail as it winds through diverse neighborhoods, parks, and along the waterfront, providing a pleasant and mostly flat ride. Keep pedaling along the Burke-Gilman Trail until you reach Log Boom Park in Kenmore. This park is a perfect spot to take a break, relax by the water, and enjoy the serene surroundings. After recharging at Log Boom Park, you begin your return journey by retracing your path along the Burke-Gilman Trail, passing through the University of Washington, Gas Works Park, and finally back to South Lake Union. This loop offers a fantastic mix of urban exploration and natural beauty, making it a must-ride for both locals and visitors looking to experience the best of Seattle's biking routes.
 
 ## Photos
-![Photo along the route,](/images/photo1.jpg)
-![Another photo along the route](/images/photo2.jpg)
+![Photo along the route,](/images/SLU-LogBoomPark/IMG_0946.png)
+![Photo at Log Boom Park](/images/SLU-LogBoomPark/IMG_0949.png)
+![UW Stadium](/images/SLU-LogBoomPark/IMG_0951.png)

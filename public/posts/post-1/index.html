@@ -37,7 +37,11 @@
         <p>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.</p>
 <p>Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.</p>
 
+            
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 
@@ -48,6 +52,22 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'Post 1',
+            text: 'Post 1 -  · ',
+            url: 'https:\/\/seattleroutes.github.io\/posts\/post-1\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 
     </main>
     

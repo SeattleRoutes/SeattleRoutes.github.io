@@ -45,7 +45,11 @@
 <p><img src="/images/Spheres-MOHAI-SpaceNeedle/IMG_0759.png" alt="Photo along the route at The Spheres">
 <img src="/images/Spheres-MOHAI-SpaceNeedle/IMG_0852.png" alt="Photo along the route near MOHAI"></p>
 
+            
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 
@@ -56,6 +60,22 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'The Spheres 🔁 MOHAI 🔁 Space Needle Loop',
+            text: 'The Spheres 🔁 MOHAI 🔁 Space Needle Loop - 3.0 mi · 🌱',
+            url: 'https:\/\/seattleroutes.github.io\/walking\/spheres-mohai-spaceneedle\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 
     </main>
     

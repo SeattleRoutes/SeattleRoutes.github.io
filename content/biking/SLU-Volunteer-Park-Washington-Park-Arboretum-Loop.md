@@ -23,7 +23,3 @@ From Volunteer Park, continue south towards the Washington Park Arboretum. As yo
 After exploring the Arboretum, head west towards Lake Washington Boulevard and follow the path back towards South Lake Union. This part of the walk takes you through the vibrant neighborhoods of Montlake and Eastlake. Consider stopping at a waterfront cafe along the way to rest and enjoy the view of Lake Union.
 
 Finally, return to SLU, completing the loop. This route provides a diverse experience, showcasing Seattle's urban charm, historic parks, and lush greenery. It's a perfect way to enjoy the city's natural beauty and vibrant culture in one enjoyable walk.
-
-## Photos
-![Photo along the route](/images/photo1.jpg)
-![Another photo along the route](/images/photo2.jpg)

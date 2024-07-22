@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seattle Center 🔁 Olympic Sculpture Park 🔁 Pike Place Market 🔁 The Spheres Loop</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+    
+        <header>
+    <h1><a href="/">Seattle Routes 📍</a></h1>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/walking/">Walking Routes</a></li>
+            <li><a href="/biking/">Biking Routes</a></li>
+        </ul>
+    </nav>
+</header>
+    
+    <main>
+        
+<div class="container">
+    <nav class="breadcrumb">
+        <a href="/">Home</a> &gt; 
+        
+            <a href="/walking/">Walking Routes</a>
+        
+        &gt; <span>Seattle Center 🔁 Olympic Sculpture Park 🔁 Pike Place Market 🔁 The Spheres Loop</span>
+    </nav>
+    <h1>Seattle Center 🔁 Olympic Sculpture Park 🔁 Pike Place Market 🔁 The Spheres Loop</h1>
+    <h3>3.8 mi · 🌱 · <a href="https://maps.app.goo.gl/gVNgQZGicbpB8pPT6" target="_blank">Link to Map</a></h3>
+    <div class="route-content markdown-content">
+        <a href="https://maps.app.goo.gl/gVNgQZGicbpB8pPT6" target="_blank">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m48!1m12!1m3!1d10758.61027902515!2d-122.35548697712244!3d47.61344495434774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m33!3e2!4m3!3m2!1d47.6175937!2d-122.33521599999999!4m5!1s0x5490154471be8ed3%3A0xde04af6753ca2e27!2sClimate%20Pledge%20Arena!3m2!1d47.622071299999995!2d-122.3540714!4m5!1s0x54901550271dcf73%3A0x7bfcfe1bfbd29f99!2sOlympic%20Sculpture%20Park!3m2!1d47.616602799999995!2d-122.35531669999999!4m5!1s0x54906aae187ac189%3A0x8aba6f598c2da0f!2sPier%2055!3m2!1d47.604746999999996!2d-122.339716!4m5!1s0x5490154bca117fb1%3A0x7f39ceca621d130c!2sThe%20Spheres!3m2!1d47.615728!2d-122.33951049999999!4m3!3m2!1d47.6175423!2d-122.3352499!5e0!3m2!1sen!2sus!4v1721625069546!5m2!1sen!2sus" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </a>
+        <h2 id="route-description">Route Description</h2>
+<p>Begin your scenic walking adventure at the iconic Seattle Center, home to the famous Space Needle and vibrant Chihuly Garden and Glass. From here, head west towards the waterfront, making your way to the Olympic Sculpture Park. This expansive, open-air museum offers a delightful blend of contemporary art and natural beauty, with breathtaking views of Puget Sound and the Olympic Mountains.</p>
+<p>Continue south along the waterfront, soaking in the sights and sounds of the bustling Elliott Bay Trail. Your next stop is the historic Pike Place Market, where you can immerse yourself in the lively atmosphere of vendors, street performers, and fresh local produce. Don’t forget to visit the original Starbucks store and catch a glimpse of the iconic fish throwing at the market&rsquo;s seafood stalls.</p>
+<p>From Pike Place Market, make your way east towards downtown Seattle. Navigate through the urban landscape until you reach The Spheres, Amazon’s distinctive biodomes filled with lush, tropical plants. Take a moment to marvel at this unique fusion of nature and technology before heading back to the Seattle Center, completing the loop.</p>
+<p>This route offers a perfect blend of art, culture, and nature, showcasing some of Seattle&rsquo;s most beloved landmarks and attractions.</p>
+<h2 id="photos">Photos</h2>
+<p><img src="/images/SeattleCenter/IMG_0887.png" alt="Photo along the route">
+<img src="/images/SeattleCenter/IMG_0893.png" alt="Another photo along the route">
+<img src="/images/SeattleCenter/IMG_0894.png" alt="Another photo along the route">
+<img src="/images/SeattleCenter/IMG_0897.png" alt="Another photo along the route">
+<img src="/images/SeattleCenter/IMG_0936.png" alt="Another photo along the route">
+<img src="/images/SeattleCenter/IMG_0938.png" alt="Another photo along the route">
+<img src="/images/SeattleCenter/IMG_0939.png" alt="Another photo along the route">
+<img src="/images/OlympicSculpturePark/IMG_0898.png" alt="Another photo along the route">
+<img src="/images/OlympicSculpturePark/IMG_0900.png" alt="Another photo along the route"></p>
+
+            
+    <button id="share-button">Share</button>
+    </div>
+
+
+</div>
+
+
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+  <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'Seattle Center 🔁 Olympic Sculpture Park 🔁 Pike Place Market 🔁 The Spheres Loop',
+            text: 'Seattle Center 🔁 Olympic Sculpture Park 🔁 Pike Place Market 🔁 The Spheres Loop - 3.8 mi · 🌱',
+            url: 'https:\/\/seattleroutes.github.io\/walking\/seattlecenter-olympicsculpturepark-pikeplace-spheres-loop\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
+
+    </main>
+    
+        <footer>
+    <p>&copy; 2024 <a href="https://rgerjeki.github.io">Reese Gerjekian</a></p>
+    <script src="/js/modal.js"></script>
+</footer>
+
+    
+</body>
+</html>

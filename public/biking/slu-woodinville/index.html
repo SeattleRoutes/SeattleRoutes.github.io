@@ -42,11 +42,12 @@
 <p>Reaching Woodinville, take the opportunity to explore the local area known for its wineries and breweries. This is a great spot for a break, where you can enjoy a tasting or grab a meal at one of the local eateries.</p>
 <p>After Woodinville, head south towards the SR 520 bridge. This part of the ride includes a mix of suburban and urban landscapes, with dedicated bike lanes ensuring a safe journey. Crossing the SR 520 bridge is a highlight, offering stunning views of Lake Washington and the Seattle skyline. The dedicated bike path on the bridge makes for a comfortable and enjoyable crossing.</p>
 <p>Once over the bridge, continue your ride through the neighborhoods of the Eastside before heading back west towards Seattle. The final stretch takes you through familiar city streets, eventually returning to South Lake Union. This route offers a diverse experience, showcasing Seattle&rsquo;s natural beauty, suburban charm, and urban vibrancy all in one comprehensive ride.</p>
-<h2 id="photos">Photos</h2>
-<p><img src="/images/photo1.jpg" alt="Photo along the route">
-<img src="/images/photo2.jpg" alt="Another photo along the route"></p>
 
+            
+    <button id="share-button">Share</button>
     </div>
+
+
 </div>
 
 
@@ -57,6 +58,22 @@
   <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
   <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<script>
+document.getElementById("share-button").addEventListener("click", function() {
+    if (navigator.share) {
+        navigator.share({
+            title: 'SLU 🔁 Woodinville Loop',
+            text: 'SLU 🔁 Woodinville Loop - 43.7 mi · 🌿',
+            url: 'https:\/\/seattleroutes.github.io\/biking\/slu-woodinville\/'
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        }).catch(console.error);
+    } else {
+        alert('Share feature is not supported on this browser.');
+    }
+});
+</script>
 
     </main>
     

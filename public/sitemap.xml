@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://seattleroutes.github.io/walking/</loc>
+    <lastmod>2024-07-21T22:10:02-07:00</lastmod>
+  </url><url>
+    <loc>https://seattleroutes.github.io/walking/seattlecenter-olympicsculpturepark-pikeplace-spheres-loop/</loc>
+    <lastmod>2024-07-21T22:10:02-07:00</lastmod>
+  </url><url>
     <loc>https://seattleroutes.github.io/biking/</loc>
     <lastmod>2024-07-21T15:19:16-07:00</lastmod>
   </url><url>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://seattleroutes.github.io/biking/lake-union-loop/</loc>
     <lastmod>2024-07-07T00:30:02-07:00</lastmod>
-  </url><url>
-    <loc>https://seattleroutes.github.io/walking/</loc>
-    <lastmod>2024-07-07T00:24:32-07:00</lastmod>
   </url><url>
     <loc>https://seattleroutes.github.io/walking/lake-union-loop/</loc>
     <lastmod>2024-07-07T00:24:32-07:00</lastmod>
